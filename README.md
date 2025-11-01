@@ -1,5 +1,5 @@
 # Exp.no: 10   IMPLEMENTATION OF SARIMA MODEL
-### Reg no:212224230001
+### Reg no:212224040091
 
 ### AIM:
 To implement SARIMA model using python.
